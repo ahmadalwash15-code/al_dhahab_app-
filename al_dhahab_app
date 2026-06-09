@@ -1,0 +1,5 @@
+al_dhahab_app/
+  requirements.txt   
+  Procfile
+  backend/
+  frontend/
